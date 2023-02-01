@@ -1,0 +1,1 @@
+kotlinc-native hello.kt -o hello

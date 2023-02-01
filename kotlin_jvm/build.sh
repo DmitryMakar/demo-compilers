@@ -1,0 +1,1 @@
+kotlinc-jvm hello.kt -include-runtime -d hello.jar
