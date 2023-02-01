@@ -1,5 +1,5 @@
 # demo-compilers
-A simle Kotlin environment demo tool to check Kotiln compiler's status on Linux / MacOS
+A simple Kotlin environment demo and test tool checking Kotiln compiler's status on Linux / MacOS
 To build test Hello World applications for Kotlin/JVM, Kotlin/JS, and Kotlin/Native
 and then output corresponding system information, start the utility with
 
