@@ -1,1 +1,1 @@
-./hello.kexe
+./*exe
